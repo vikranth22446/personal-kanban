@@ -216,8 +216,7 @@ To run the application locally on your machine you can follow the steps below :
 
 ## Privacy
 
-The application makes use of local storage for persisting your work columns & records and does not store any personal kanban data on any sort of server. The application uses Google analytics to get an overview of the application usage.
-
+The application makes use of local storage for persisting your work columns & records and does not store any personal kanban data on any sort of server. 
 ## Other References
 
 - [What is Agile Software Development](https://en.wikipedia.org/wiki/Agile_software_development)
